@@ -155,6 +155,7 @@ alx-project-0x00/
 ├── public/
 ├── styles/
 └── README.md
+```
 🧠 Notes
 We're using the Pages Router, not the App Router, to keep things simple and beginner-friendly.
 
@@ -168,6 +169,3 @@ GitHub: alx-project-0x00-setup
 Project Directory: alx-project-0x00
 
 Project developed by Abdelmounaim El Harba for ALX.
-
-yaml
-Copy code
